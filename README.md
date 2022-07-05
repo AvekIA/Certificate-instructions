@@ -1,8 +1,10 @@
 # Installation du certificat pour windows
 Tutoriel pour installer le certificat pour windows
 ## Prérequis
-Télécharger le [certificat d'AvekIA :](https://general-ssi-windows-build.s3.eu-west-3.amazonaws.com/AVEKIA_CERTIFICATE.pfx)  
+Télécharger le [certificat d'AvekIA](https://general-ssi-windows-build.s3.eu-west-3.amazonaws.com/AVEKIA_CERTIFICATE.pfx) :  
 https://general-ssi-windows-build.s3.eu-west-3.amazonaws.com/AVEKIA_CERTIFICATE.pfx
+
+Télécharger l'installateur d'application [AvekiA SSI](https://general-ssi-windows-build.s3.eu-west-3.amazonaws.com/AvekIA-SSI.msix) :   https://general-ssi-windows-build.s3.eu-west-3.amazonaws.com/AvekIA-SSI.msix
 ## Installation
 ### Étape 1
 Double-cliquez sur **AVEKIA_CERTIFICATE.pfx** pour l'ouvrir.  
@@ -26,4 +28,4 @@ Cliquez sur **Suivant**.
 Voici le récapitulatif des paramètres de votre certificat, vous aurez fini une fois cliqué sur **Terminer**.  
 <img src="https://user-images.githubusercontent.com/57439132/177337527-a7f2bec7-7ed8-4a12-87c1-192a0683cc28.png" width="500" height="500" />
 ## Bravo !
-Vous pouvez désormais installer [l'application AvekIA !]  
+Vous pouvez désormais installer [l'application AvekIA !](https://general-ssi-windows-build.s3.eu-west-3.amazonaws.com/AvekIA-SSI.msix)
